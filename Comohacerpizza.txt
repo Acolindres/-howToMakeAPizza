@@ -1,1 +1,16 @@
 1.Ya hice mi tarea pero quedo en main 
+1.Obtener los ingredientes
+2.Preparar la masa
+3.Preprar la salsa
+4.Cortar y dejar todos los ingredientes listos para proceder a armar la pizza
+5.Estirar la masa
+6.Echar la salsa
+7.Colocar los ingredientes encima de la masa ya estirada
+8.Preecalentar el horno antes de colocar la pizza
+9.Colocar la pizza dentro del horno
+10.Sacar La pizza
+11.Picar la pizza
+12.Servir la pizza
+13.Buon appetito
+
+
